@@ -2,5 +2,7 @@
 
 Diseño web para perfil de un usuario con cargador de imagen para foto.
 
-Previsualiza la imagen desde aqui - https://i.ibb.co/wSjKdmC/Screenshot-1.png
+https://raw.githubusercontent.com/sergio-gonzalez-11/Perfil-Web---Html5---css3--Bootstrap/previa.png
+
+
 
